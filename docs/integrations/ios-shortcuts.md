@@ -1,10 +1,10 @@
 ---
-title: "Siri Shortcuts"
-id: siri-shortcuts
+title: "iOS Shortcuts"
+id: ios-shortcuts
 ---
 
 ![iOS](/assets/iOS.svg)<br />
-With iOS 13 or later and the Home Assistant Companion App, you can take advantage of the power of Siri Shortcuts to carry out Home Assistant tasks with a tap or by using voice commands.
+With iOS 13 or later and the Home Assistant Companion App, you can take advantage of the power of iOS Shortcuts to carry out Home Assistant tasks with a tap or by using voice commands.
 
 ## Getting Started - Example Shortcut
 
@@ -23,7 +23,7 @@ As an example, if you wanted to create a shortcut to turn on a light (`light.por
 
 The final shortcut should look similar to this:
 
-<img className="center_image" alt="Example of a completed Siri Shortcut as described above" src="/assets/siri-shortcut-example.jpg" />
+<img className="center_image" alt="Example of a completed iOS Shortcut as described above" src="/assets/ios/shortcut-example.jpg" />
 
 ## Shortcut Flow
 

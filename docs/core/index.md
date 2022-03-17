@@ -76,7 +76,7 @@ Not all features are supported by Android at the moment but eventually most feat
       <td></td>
     </tr>
     <tr>
-      <td><a href="/docs/integrations/siri-shortcuts">Siri Shortcuts</a></td>
+      <td><a href="/docs/integrations/ios-shortcuts">iOS Shortcuts</a></td>
       <td></td>
       <td></td>
       <td>✅</td>

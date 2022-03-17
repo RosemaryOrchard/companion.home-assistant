@@ -482,7 +482,7 @@ This sensor displays exactly what caused the last update of location and sensor 
 | Geographic Region Exited | Triggered when exiting any user-specified Home Assistant [zone](https://www.home-assistant.io/components/zone/) (also known as geofencing). |
 | Push Notification | [Requesting location updates](../notifications/notification-commands#request-location-updates) via push notification.  |
 | Background Fetch | When the app refreshes sensor information in the background. |
-| Siri | Location updates triggered via the [Siri Shortcuts](../integrations/siri-shortcuts.md) "Send Location" shortcut. |
+| Siri | Location updates triggered via the [iOS Shortcuts](../integrations/ios-shortcuts.md) "Send Location" shortcut. |
 | iBeacon Region Entered | Triggered when an iBeacon is seen that corresponds to a known zone. |
 | Registration | Triggered once when the app is first connected to your Home Assistant instance. |
 | Signaled | Triggered when the app detects a change, such as battery state changes, while running. |
